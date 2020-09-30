@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAMmodule", "UAMmodule\UAMmodule.csproj", "{C06F2FAA-F808-4082-A56B-B23D4C859F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06F2FAA-F808-4082-A56B-B23D4C859F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06F2FAA-F808-4082-A56B-B23D4C859F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06F2FAA-F808-4082-A56B-B23D4C859F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06F2FAA-F808-4082-A56B-B23D4C859F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB04A7F-A857-4FB5-A00D-27BA2151CE06}
+	EndGlobalSection
+EndGlobal
